@@ -19,8 +19,8 @@ PRODUCT_PACKAGES += \
     IPACM_cfg.xml
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += device/google/crosshatch/overlay-lineage
-PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += device/google/crosshatch/overlay-lineage/lineage-sdk
+## DEVICE_PACKAGE_OVERLAYS += device/google/crosshatch/overlay-lineage
+## PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += device/google/crosshatch/overlay-lineage/lineage-sdk
 
 # RCS
 PRODUCT_PACKAGES += \
